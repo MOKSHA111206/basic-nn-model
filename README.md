@@ -84,14 +84,19 @@ model.predict(X_n1_1)
 ```
 ## DATASET INFORMATION:
 <img width="348" height="689" alt="image" src="https://github.com/user-attachments/assets/23a5768f-7af0-40f7-9230-09306a49d18a" />
+
 ## OUTPUT:
 ### Training Loss Vs Iteration Plot:
 <img width="774" height="201" alt="image" src="https://github.com/user-attachments/assets/7b38f8b5-bbf5-4993-ab59-0071d46b7f80" />
+
 ### Epoch Training:
 <img width="901" height="621" alt="image" src="https://github.com/user-attachments/assets/18dacc89-36ad-4bfe-aaa5-2e4d52af2014" />
+
 ### Test Data Root Mean Squared Error:
 <img width="618" height="134" alt="image" src="https://github.com/user-attachments/assets/a46886c8-c78b-4fa9-8633-87c7e28a3d12" />
+
 ### New Sample Data Prediction:
 <img width="458" height="163" alt="image" src="https://github.com/user-attachments/assets/3e9b0263-9648-490d-a2a1-d6eda8c26753" />
+
 ## RESULT:
 Thus a basic neural network regression model for the given dataset is written and executed successfully.
